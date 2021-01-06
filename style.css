@@ -1,0 +1,37 @@
+h1 {
+    color: pink
+}
+h2 {
+
+  color:aquamarine  
+}
+
+*{
+    border:solid
+}
+
+.header{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap:wrap ;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+   
+
+    
+}
+p,h2{
+text-align: center;
+
+
+}
+
+
+
